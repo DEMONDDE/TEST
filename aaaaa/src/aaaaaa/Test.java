@@ -12,5 +12,7 @@ public class Test {
 	public void eeee() {
 		
 	}
+	
+	public void test(){}
 
 }
