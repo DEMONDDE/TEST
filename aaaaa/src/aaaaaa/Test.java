@@ -8,4 +8,7 @@ public class Test {
 	public void ccc() {
 		
 	}
+	
+	public void bbb(){
+
 }
